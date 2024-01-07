@@ -1,0 +1,9 @@
+C:/Users/driss/OneDrive/Desktop/Emsi/CPP/Projet/build-GNotes-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/GNotes.dir
+C:/Users/driss/OneDrive/Desktop/Emsi/CPP/Projet/build-GNotes-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/driss/OneDrive/Desktop/Emsi/CPP/Projet/build-GNotes-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/driss/OneDrive/Desktop/Emsi/CPP/Projet/build-GNotes-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/driss/OneDrive/Desktop/Emsi/CPP/Projet/build-GNotes-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/driss/OneDrive/Desktop/Emsi/CPP/Projet/build-GNotes-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/driss/OneDrive/Desktop/Emsi/CPP/Projet/build-GNotes-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/driss/OneDrive/Desktop/Emsi/CPP/Projet/build-GNotes-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/GNotes_autogen_timestamp_deps.dir
+C:/Users/driss/OneDrive/Desktop/Emsi/CPP/Projet/build-GNotes-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/GNotes_autogen.dir
